@@ -10,4 +10,3 @@ get '/' do
 	
 
 end
-end
